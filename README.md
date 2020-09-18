@@ -1,1 +1,1 @@
-# stega-encrypt
+# stegas-encrypt
