@@ -1,1 +1,1 @@
-# stegas-encrypt
+# stegas-client
